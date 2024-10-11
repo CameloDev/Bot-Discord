@@ -1,0 +1,14 @@
+{
+    "automod": {
+        "canal_de_logs": "1217859036314341407",
+        "ligado": true,
+        "systems": {
+            "palavras": true,
+            "linkblock": true,
+            "ant_alt": false,
+            "ant_ping": false
+        },
+        "days": "30",
+        "mute": "120"
+    }
+}

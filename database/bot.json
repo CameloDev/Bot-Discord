@@ -1,0 +1,20 @@
+{
+    "vendas": true,
+    "acesstoken": "",
+    "pix": true,
+    "qrcode": true,
+    "pagarsite": true,
+    "semi": false,
+    "semiauto": {
+        "pix": "",
+        "qrcode": "",
+        "role": "",
+        "tipo": ""
+    },
+    "termos": "",
+    "channel_logs": "",
+    "role": "",
+    "category": "",
+    "blockbank": [],
+    "channel_public": ""
+}

@@ -1,0 +1,86 @@
+{
+    "channel_logs": "1229448953523601489",
+    "roles": [
+        "1217859500631916654",
+        "1217859204266856559",
+        "1217859133206691891"
+    ],
+    "ticket": [],
+    "ticket_default": [
+        {
+            "type": "Ticket de suporte",
+            "description": "Caso precise de suporte clique aqui."
+        },
+        {
+            "type": "Ticket de denuncia",
+            "description": "Caso precise de denuncia clique aqui."
+        },
+        {
+            "type": "Ticket de bugs",
+            "description": "Caso precise de bugs clique aqui."
+        }
+    ],
+    "horario": {
+        "sabado": {
+            "aberto": "00:00",
+            "fechado": "23:59"
+        },
+        "segunda": {
+            "aberto": "00:00",
+            "fechado": "23:59"
+        },
+        "terca": {
+            "aberto": "00:00",
+            "fechado": "23:59"
+        },
+        "quarta": {
+            "aberto": "00:00",
+            "fechado": "23:59"
+        },
+        "quinta": {
+            "aberto": "00:00",
+            "fechado": "23:59"
+        },
+        "sexta": {
+            "aberto": "00:00",
+            "fechado": "23:59"
+        },
+        "domingo": {
+            "aberto": "00:00",
+            "fechado": "23:59"
+        }
+    },
+    "embeds": {
+        "titulo": "React SS | Atendimento",
+        "desc": "Abra ticket para receber Atendimento\n\n:speech_balloon: **| Infomações**\n> Olá, se você esta lendo isso aqui, provavelmente está precisando de ajuda clique no botão abaixo para tirar suas duvida.\n\n:lock: **| Horario de atendimento**\n> Nossos horários de atendimento são os seguintes:Segunda a Segunda: 12:30 às 00:30",
+        "footer": "Lembre-se não abra um ticket sem necessidade",
+        "banner": "https://cdn.discordapp.com/attachments/1188899740843249808/1236451355518963812/image.png?ex=66380e8f&is=6636bd0f&hm=ffecae2fd98b5beff04ee8bbc7df27d36e8d3b11c5b20e903c5427ab896c898e&",
+        "imagem": "remover",
+        "cor": "#00ffef",
+        "button": {
+            "text": "Atendimento",
+            "emoji": "🎫"
+        }
+    },
+    "embed_dentro": {
+        "titulo": "React SS | Atendimento",
+        "desc": ":beginner: **| Informações:** __*Seja Bem Vindo para seu Ticket! Espere até que um **Suporte** lhe atenda, Evite de Marcar varias vezes para evitar punições!*__",
+        "banner": "https://cdn.discordapp.com/attachments/1188899740843249808/1236451355518963812/image.png?ex=66380e8f&is=6636bd0f&hm=ffecae2fd98b5beff04ee8bbc7df27d36e8d3b11c5b20e903c5427ab896c898e&",
+        "imagem": "remover",
+        "cor": "#00ffef"
+    },
+    "emojis": {
+        "sair": "<:aba:1225118419402363020>",
+        "assumir": "<a:sim:1225118405955162124>",
+        "renomear": "<:IDD:1225118471101091871>",
+        "notify_member": "<a:sininho:1225118409495281684>",
+        "addmember": "<:mais:1225118368416399401>",
+        "removemember": "<:menos:1225118369875759105>",
+        "criarcall": "<:tempo:1225118411273539668>",
+        "fechar": "<:delete:1225118447105605734>"
+    },
+    "renomear": {
+        "fechar": "<:delete:1225118447105605734>"
+    },
+    "24hrs": false
+}

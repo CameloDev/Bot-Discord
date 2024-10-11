@@ -1,0 +1,22 @@
+{
+    "": {
+        "": {
+            "title": "Servidor de 👻 | Produto",
+            "description": "Sem Descrição",
+            "nome": ".",
+            "preco": 10,
+            "conta": [],
+            "banner": "remover",
+            "pessoas": []
+        }
+    },
+    "curso": {
+        "title": "Jala Labs | Produto",
+        "description": "Sem Descrição",
+        "nome": "curso",
+        "preco": 10,
+        "conta": [],
+        "banner": "remover",
+        "pessoas": []
+    }
+}

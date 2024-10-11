@@ -1,0 +1,34 @@
+	{
+    "cargo_staff": [
+        "1232010797950042172"
+    ],
+    "client": {
+        "linkrestorecord": "https://restorecord.com/verify/dz7prp",
+        "logo": "https://media.discordapp.net/attachments/1229423702848966686/1229443558910464102/DZ7.png?ex=6631050a&is=662fb38a&hm=0bf4f178d39b65b4fbe2e2ff75bdb12626ab45f8852ede3af26bf0daee1b2a21&=&format=webp&quality=lossless&width=885&height=498"
+    },
+    "bemvindo": {
+        "logs": "1229421254705156133",
+        "name": "Dz7",
+        "botões": {
+            "botão1": {
+                "label": "Configura no /botconfigmod",
+                "emoji": "⭐",
+                "link": ""
+            },
+            "botão2": {
+                "label": "Configura no /botconfigmod",
+                "emoji": "✅",
+                "link": ""
+            },
+            "botão3": {
+                "label": "teste",
+                "emoji": "📖",
+                "link": ""
+            }
+        }
+    },
+    "embeds_color": {
+        "embed_invisible": "#00ffef"
+    },
+    "avaliar_staff": "1229828134958927943"
+}
